@@ -1,10 +1,17 @@
-//false list:
+//Falsy:
 // 0
 // ""
 // undefined
 // null
 // NaN
+//false
 
+//Truthy:
+
+// "0"
+// " "
+// []
+// 
 
 
 //const name  = '';
